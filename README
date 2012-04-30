@@ -4,20 +4,20 @@ Original creation date:			12/02/2012
 Programmer name:				Jamie Taylor (aka "GaProgMan")
 
 File names/Directory listing:	<DIR> Root
-									<DIR> Resources
-										movie.jpg
-										tv_show.jpg
-								EpisodeNamePopUpBox.cs
-								EpisodeNamePopUpBox.Designer.cs
-								EpisodeNamePopUpBox.resx
-								Form1.cs
-								Form1.Designer.cs
-								Form1.resx
-								Program.cs
-								TVShowForm.cs
-								TVShowForm.Designer.cs
-								TVShowForm.resx
-								WDTV Live MetaData Generator.csproj
+				<DIR> Resources
+					movie.jpg
+					tv_show.jpg
+				EpisodeNamePopUpBox.cs
+				EpisodeNamePopUpBox.Designer.cs
+				EpisodeNamePopUpBox.resx
+				Form1.cs
+				Form1.Designer.cs
+				Form1.resx
+				Program.cs
+				TVShowForm.cs
+				TVShowForm.Designer.cs
+				TVShowForm.resx
+				WDTV Live MetaData Generator.csproj
 
 Purpose of the project:		I had recently purchased a WDTV Live
 				(hereafter refered to as "The Magic Box"), and
@@ -44,7 +44,7 @@ Purpose of the project:		I had recently purchased a WDTV Live
 License used:				GNU GPL v3 (details follow)
 
 		GNU Copyright information
-		Copyright 2011 Jamie Taylor <seppydude@gmail.com>
+		Copyright 2012 Jamie Taylor <seppydude@gmail.com>
 
 		This program is free software; you can redistribute it and/or modify
 		it under the terms of the GNU General Public License as published by
