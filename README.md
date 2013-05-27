@@ -9,7 +9,7 @@ Jamie 'GaProgMan' Taylor
 #### Contributors ####
 Jamie 'gumbald' Barron
 
-## Purpose of the project## 
+## Purpose of the project ## 
   I had recently purchased a WDTV Live (hereafter refered to as "The Magic Box"), and was having problems with metadata generation for my media files. So, I looked up the format used for the metadata (XML) and half wrote a small C# app to generate the correct metadata files for a given TV Series or Film.
 
   Currently, the TV Series part of the app is the only section that has been written. It uses hard coded values for finding banner images and data. These hard coded values point to the webresource TheTVDB (http://www.thetvdb.com).
