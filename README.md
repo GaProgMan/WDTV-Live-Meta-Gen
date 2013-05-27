@@ -44,6 +44,9 @@ Jamie 'gumbald' Barron
 
 ## Changelog ##
 
+2013-05-27 - Jamie Taylor
+- Readme now uses Markdown
+
 2012-04-03 - Jamie Taylor
 - Initial commit to GitHub as test repo
 - Added solution and README files to repo
