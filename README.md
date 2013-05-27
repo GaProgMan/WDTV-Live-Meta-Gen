@@ -4,7 +4,7 @@
 12/02/2012
 
 ### Lead Programmer ###
-Jamie Taylor (aka "GaProgMan")
+Jamie 'GaProgMan' Taylor
 
 #### Contributors ####
 Jamie 'gumbald' Barron
