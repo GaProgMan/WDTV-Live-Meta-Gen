@@ -22,10 +22,10 @@ Jamie 'gumbald' Barron
 
   To compile this app, you will need to have access to Visual Studio 2008 (or greater) and the .NET 3 (or higher) framework.
 
-## License ##
+## Licence ##
 
 		GNU Copyright information
-		Copyright 2012 Jamie Taylor <jamie@taylorj.org.uk>
+		Copyright 2012 Jamie Taylor <jamie@gaprogman.com>
 
 		This program is free software; you can redistribute it and/or modify
 		it under the terms of the GNU General Public License as published by
